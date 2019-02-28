@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculadora Kotlin</string>
+    <string name="number_1">Número 1</string>
+    <string name="number_2">Número 2</string>
+    <string name="result">Resultado</string>
+</resources>
